@@ -1,6 +1,9 @@
 # 🏠 PG Life – Web Application
 
-A web application developed during my Internshala Web Development internship to help users find and explore nearby PG accommodations based on location and facilities.
+**PG Life** is a full-stack web application developed as part of the Web Development internship at Internshala. It helps users find nearby Paying Guest (PG) accommodations based on location and view detailed information about each listing.
+
+The application allows users to register and securely log in. Once authenticated, users can search for PGs by city or locality and view comprehensive details such as available facilities, pricing, and images.
+
 
 ## 🚀 Features
 
